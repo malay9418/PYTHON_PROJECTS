@@ -69,7 +69,7 @@ while i < 5:
 		else:
 			prn()
 			fl1.write("0\n")
-			fl2.write("0\n")
+			fl2.write("1\n")
 		fl1.close()
 		fl2.close()
 	except:
